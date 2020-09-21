@@ -1,5 +1,6 @@
-Remote Add / Remove / Show,
+Remote Add / Remove / Show(1 commit),
+
 Status,
-Checkout
+Checkout(1 commit)
 
 Fix formats
