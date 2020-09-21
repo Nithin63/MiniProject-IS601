@@ -36,3 +36,30 @@ When you create a repository on GitHub, it exists as a remote repository.
    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
    
    
+   
+## *Fork a repo*
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting 
+the original project.
+
+Most commonly, forks are used to either propose changes to someone else's project or to use someone else's
+ project as a starting point for your own idea.
+ 
+ *Fork an example repository*
+ 
+ Forking a repository is a simple two-step process. We've created a repository for you to practice with.
+ 
+ On GitHub, navigate to the octocat/Spoon-Knife repository.
+ In the top-right corner of the page, click Fork.
+ 
+ ![fork](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
+ 
+ **Keep your fork synced**
+   You might fork a project to propose changes to the upstream, 
+ or original, repository. In this case, it's good practice to 
+ regularly sync your fork with the upstream repository. 
+ 
+ 
+ 
+ 
+   
