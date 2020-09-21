@@ -1,3 +1,5 @@
-Remote Add / Remove / Show
-Status
+Remote Add / Remove / Show,
+Status,
 Checkout
+
+Fix formats
