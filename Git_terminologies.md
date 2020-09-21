@@ -44,11 +44,49 @@ to package them into a commit using the git commit command as shown below.
 
  git commit -m "This is my first commit!"
  
-
+ ## 6. Push
+ Push the commit in your branch to your new GitHub repo. 
+ This allows other people to see the changes you've made.
+  If they're approved by the repository's owner, the changes 
+  can then be merged into the primary branch.
+ 
+ To push changes onto a new branch on GitHub, we should
+  run git push origin our branch name. GitHub will automatically 
+ create the branch for you on the remote repository: 
+ 
+ git push origin yourbranchname
+ 
+ ## 7. Pull
+ If we refresh the GitHub page, we'll see note saying a branch
+  with our name has just been pushed into the repository. 
+  ![Compare and Pull](https://cloud.githubusercontent.com/assets/5241432/9189475/da30eb86-3fb6-11e5-934f-ca596a2cac69.png)
  
  
+ 
+  Create a Pull Request (PR)
+ A pull request (or PR) is a way to alert a repo's owners 
+ that you want to make some changes to their code. It allows 
+ them to review the code and make sure it looks good before 
+ putting your changes on the primary branch.
+ 
+ This is what the PR page looks like before you've submitted it
+ 
+ ![Open a pull request](https://cloud.githubusercontent.com/assets/5241432/9189500/4688c07e-3fb7-11e5-99ed-d75b50ed9e48.png)
     
+ And this is what it looks like once you've submitted the PR request:
  
+ ![Merge pull request](https://cloud.githubusercontent.com/assets/5241432/9189528/b39a7176-3fb7-11e5-87b1-7fed3e63b6bb.png)
+ 
+ You might see a big green button at the bottom that says 'Merge pull request'. Clicking this means you'll merge your changes
+  into the primary branch.
+  
+  Note that this button won't always be green. In some cases 
+  it'll be grey, which means you're faced with a merge conflict. 
+  
+  This is when there is a change in one file that conflicts with a
+   change in another file and git can't figure out which version to 
+   use. You'll have to manually go in and tell git which version to 
+   use.
  
  
  
