@@ -19,7 +19,7 @@ $ git add LICENSE
 ![Create Repsoitory](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_2-1.png?width=1007&height=627&name=Git_101_Screenshot_2-1.png)
 
 
-## 5. Commit
+## 2. Commit
 A commit is a record of what files you have changed 
 since the last time you made a commit. Essentially, 
 you make changes to your repo (for example, adding a 
