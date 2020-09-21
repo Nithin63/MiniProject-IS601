@@ -1,10 +1,10 @@
-##Git, Docker, Automated testing, and Continuous Integration 
+## Git, Docker, Automated testing, and Continuous Integration 
  
  Following below, we will learn about usage of Git, Docker, Automated testing,
   and Continuous Integration can improve the productivity and competitiveness 
   of a company.
 
-## 1. Git
+## 1. *Git*
 Git is a type of version control system (VCS) that makes it easier to track 
 changes to files. 
 
@@ -18,7 +18,9 @@ exactly what changed, who changed it, and why.
  your productivity as a developer.
  Git is one of those tools you use on a daily basis.
  
- ## 2. Docker
+[Git tutorial]( https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) 
+ 
+ ## 2. *Docker*
  
  In a production environment, Docker makes it easy to create, deploy, and 
   run applications inside of containers. Containers let developers gather 
@@ -39,8 +41,51 @@ exactly what changed, who changed it, and why.
    across datacenters and clouds.
    5. Application upgrades are a lot easier.
    
+   [Docker Article](https://opensource.com/resources/what-docker)
   
+   
+ ## *3. Automated Testing*
+   Automation testing is a technique to test and 
+   compare the actual outcome with the expected outcome. This can be 
+   achieved by writing test scripts or using any automation testing tool. 
+   
+   Test automation is used to automate repetitive tasks and other 
+   testing tasks which are difficult to perform manually.
+   
+   Test Automation focuses on replacing manual human activity with systems
+    or devices that enhance efficiency.
     
+   Automated testing provides various benefits to developers:
+    coverage to detect bugs and errors – 
+                                              early and later during the development – and significantly reduces the cost 
+                                               of failure, saves time through its repeatability and earlier verification, 
+                                               and leverages the improved resource productivity.
+   
+   [Automated Testing tutorial](https://www.guru99.com/automation-testing.html)
+                                               
+## 4. *Continious Integraton*
+Continuous Integration (CI) is a development practice where developers
+ integrate code into a shared repository frequently, preferably several 
+ times a day. Each integration can then be verified by an automated build 
+ and automated tests. While automated testing is not strictly part of CI 
+ it is typically implied.
+
+One of the key benefits of integrating regularly is that you can detect 
+errors quickly and locate them more easily. As each change introduced is 
+typically small, pinpointing the specific change that introduced a defect
+ can be done quickly.
+
+In recent years CI has become a best practice for software development
+ and is guided by a set of key principles. Among them are revision control,
+  build automation and automated testing.
+
+Additionally, Continuous Deployment and Continuous Delivery have developed
+ as best-practices for keeping your application deployable at any point or 
+ even pushing your main codebase automatically into production whenever new 
+ changes are brought into it. This allows your team to move fast while keeping 
+ high quality standards that can be checked automatically.
+ 
+ [Continious Integraton](https://www.cloudbees.com/solutions/continuous-integration?utm_source=google&utm_medium=cpc&utm_campaign=CI-GSN-NA-TOFU&utm_content=CI&_bt=455797556824&_bk=continuous%20integration&_bm=e&_bn=g&gclid=Cj0KCQjwnqH7BRDdARIsACTSAdsIPbEal44WyUZSapP4gCg_jku9LbBywMlA6hGCy7zHxIej_mozDx8aAr6kEALw_wcB)
     
     
     
