@@ -12,7 +12,11 @@ Repository_Description
 
 Commit_Description
 
-Push Pull Merge
+Push Description
+
+Pull Description
+
+Merge Description
 
 Branch and Master Description
 
