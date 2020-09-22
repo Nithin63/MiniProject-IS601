@@ -7,7 +7,7 @@ When you create a repository on GitHub, it exists as a remote repository.
  sync between the two locations.
  
  About cloning a repository
- You can clone a repository from GitHub to your local computer to
+ You can **clone** a repository from GitHub to your local computer to
   make it easier to fix merge conflicts, add or remove files, and push
    larger commits. When you clone a repository, you copy the repository f
    rom GitHub to your local machine.
@@ -18,7 +18,7 @@ When you create a repository on GitHub, it exists as a remote repository.
   repository on GitHub, or 
  pull other people's changes from GitHub
  
- Steps:
+##### Steps:
  1. On GitHub, navigate to the main page of the repository.
  
  2. Above the list of files, click  Code.
@@ -39,7 +39,7 @@ When you create a repository on GitHub, it exists as a remote repository.
    
 ## *Fork a repo*
 
-A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting 
+A **fork** is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting 
 the original project.
 
 Most commonly, forks are used to either propose changes to someone else's project or to use someone else's
@@ -47,9 +47,9 @@ Most commonly, forks are used to either propose changes to someone else's projec
  
  *Fork an example repository*
  
- Forking a repository is a simple two-step process. We've created a repository for you to practice with.
+ Forking a repository is a simple **two-step process**. We've created a repository for you to practice with.
  
- On GitHub, navigate to the octocat/Spoon-Knife repository.
+ On GitHub, navigate to the Nithinreddy127/MiniProject-IS601 repository.
  In the top-right corner of the page, click Fork.
  
  ![fork](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
