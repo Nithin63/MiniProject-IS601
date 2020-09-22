@@ -20,7 +20,7 @@
 
 
 
-## *[Git Change Log](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_Change_Log)*
+## *[Git Change Log](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_ChangeLog.md)*
 
 
 ## *Project members*
