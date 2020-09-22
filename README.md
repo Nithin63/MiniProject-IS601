@@ -19,12 +19,14 @@
 - ##### [status](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_Terminologies_part4.md)
 
 
+
+## *[Git Change Log](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_Change_Log)*
+
+
 ## *Project members*
 Nithin Reddy Ramachandra(na536)
 
 Suraj Vishwakarma (srv39) 
-
-## *[Git Change Log](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_Change_Log)*
 
 
 
