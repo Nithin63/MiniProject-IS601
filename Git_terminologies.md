@@ -75,6 +75,11 @@ to package them into a commit using the git commit command as shown below.
     
  And this is what it looks like once you've submitted the PR request:
  
+ ## Merge
+ 
+The **merge** command is used to integrate changes from another branch.
+The target of this integration (i.e. the branch that receives changes) is always the currently checked out HEAD branch.
+ 
  ![Merge pull request](https://cloud.githubusercontent.com/assets/5241432/9189528/b39a7176-3fb7-11e5-87b1-7fed3e63b6bb.png)
  
  You might see a big green button at the bottom that says 'Merge pull request'. Clicking this means you'll merge your changes
