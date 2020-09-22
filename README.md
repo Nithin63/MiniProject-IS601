@@ -4,7 +4,7 @@
 
 ##### **[Git, Docker, Automated Testing, Continous Integration](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Gitfile.md)**
 
-##### **[Git flow](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/README.md)**
+##### **Git Flow**
  
 - ##### [Repository](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_terminologies.md)
 - ##### [clone](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_Terminologies_Part2.md)
@@ -20,7 +20,7 @@
 
 
 
-## *[Git Change Log](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_ChangeLog.md)*
+## **[Git Change Log](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_ChangeLog.md)**
 
 
 ## *Project members*
