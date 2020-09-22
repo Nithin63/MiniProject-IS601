@@ -2,7 +2,7 @@
 
 ## *Section*
 
-##### **[Git, Docker, Automated Testing, Continous Integration](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Gitfile.md)
+##### **[Git, Docker, Automated Testing, Continous Integration](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Gitfile.md)**
 
 ##### **[Git flow](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/README.md)**
  
