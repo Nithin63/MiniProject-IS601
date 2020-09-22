@@ -18,7 +18,15 @@
 - ##### [remote](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_terminology_part3.md)
 - ##### [status](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_Terminologies_part4.md)
 
+
+## *Project members*
+Nithin Reddy Ramachandra(na536)
+
+Suraj Vishwakarma (srv39) 
+
 ## *Git Change Log*
+
+### *Change Log of Nithin*
 commit 7c684a2b92609f53b630ff3cc56246d9c358d52c (HEAD -> Branch_masterbranch, origin/master, origin/HEAD)
 Author: Nithinreddy127 <58956816+Nithinreddy127@users.noreply.github.com>
 Date:   Mon Sep 21 14:33:26 2020 -0400
@@ -292,12 +300,11 @@ Date:   Mon Sep 21 01:58:14 2020 -0400
     Initial commit
 (END)
 
+### *Change Lof of Suraj*
 
 
 
 
 
-## *Project members*
-Nithin Reddy Ramachandra(na536)
 
-Suraj Vishwakarma (srv39) 
+
