@@ -2,6 +2,8 @@
 
 ## *Section*
 *[Git flow]()*
+#### [Git terminologies 1](https://github.com/Nithinreddy127/MiniProject-IS601/blob/master/Git_terminologies.md) 
+
 
 
 
