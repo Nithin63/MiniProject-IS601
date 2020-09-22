@@ -60,6 +60,30 @@ Most commonly, forks are used to either propose changes to someone else's projec
  regularly sync your fork with the upstream repository. 
  
  
+ ## *Branch*
+ Branches are just pointers to commits. 
  
+ When you create a branch, all Git needs to do is create
+  a new pointer, it doesn’t change the repository in any other way.
+   If you start with a repository that looks like this:
+   ![image](https://wac-cdn.atlassian.com/dam/jcr:b0e2f237-9337-4385-be22-43f623e133d0/03.svg?cdnVersion=1252)
+ 
+ Then, you create a branch using the following command:
+ 
+ git branch crazy-experiment
+ 
+ The repository history remains unchanged.
+  All you get is a new pointer to the current commit:
+ 
+ ![image1](https://wac-cdn.atlassian.com/dam/jcr:b0e2f237-9337-4385-be22-43f623e133d0/03.svg?cdnVersion=1252)
+  
+  ## *Master Branch*
+  
+  Master branch is the main working branch created when you pushed 
+  your file for the first time into GIT repository.
+   Develop or any other branch is typically created by Admin
+    to restrict developers to make any changes in master branch.
+     As doing this without proper review and testing will break the
+      working of application.
  
    
