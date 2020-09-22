@@ -1,6 +1,6 @@
 # Git Terminologies
 
-## 1. Repository
+## Repository
 A Git repository is the .git/ folder inside a project. 
 This repository tracks all changes made to files in your project,
  building a history over time. Meaning, if you delete the .git/ folder, 
@@ -19,8 +19,8 @@ $ git add LICENSE
 ![Create Repsoitory](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_2-1.png?width=1007&height=627&name=Git_101_Screenshot_2-1.png)
 
 
-## 2. Commit
-A commit is a record of what files you have changed 
+##  Commit
+A **commit** is a record of what files you have changed 
 since the last time you made a commit. Essentially, 
 you make changes to your repo (for example, adding a 
 file or modifying one) and then tell git to put those 
@@ -44,8 +44,8 @@ to package them into a commit using the git commit command as shown below.
 
  git commit -m "This is my first commit!"
  
- ## 6. Push
- Push the commit in your branch to your new GitHub repo. 
+ ## Push
+ **Push** the commit in your branch to your new GitHub repo. 
  This allows other people to see the changes you've made.
   If they're approved by the repository's owner, the changes 
   can then be merged into the primary branch.
@@ -56,7 +56,7 @@ to package them into a commit using the git commit command as shown below.
  
  git push origin yourbranchname
  
- ## 7. Pull
+ ## Pull
  If we refresh the GitHub page, we'll see note saying a branch
   with our name has just been pushed into the repository. 
   ![Compare and Pull](https://cloud.githubusercontent.com/assets/5241432/9189475/da30eb86-3fb6-11e5-934f-ca596a2cac69.png)
@@ -64,8 +64,8 @@ to package them into a commit using the git commit command as shown below.
  
  
   Create a Pull Request (PR)
- A pull request (or PR) is a way to alert a repo's owners 
- that you want to make some changes to their code. It allows 
+ A **pull request** (or PR) is a way to alert a repo's owners 
+ that you want to make some **changes** to their code. It allows 
  them to review the code and make sure it looks good before 
  putting your changes on the primary branch.
  
