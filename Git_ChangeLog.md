@@ -1,6 +1,5 @@
 # *Change Log*
 ## *Task performed by Nithin*
-Repositry creation
 
 Adding data to Readme
 
@@ -15,8 +14,6 @@ Commit_Description
 Push Description
 
 Pull Description
-
-Merge Description
 
 Branch and Master Description
 
@@ -34,9 +31,9 @@ Clone Description
 
 Fork Description
 
-Status explantion
+Status Description
 
-Cloning and forking explanation
+Merge Description
 
 Fix Definition of cloning and forking
 
